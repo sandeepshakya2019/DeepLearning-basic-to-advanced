@@ -1,0 +1,117 @@
+15:56:52 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+15:56:52 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+15:56:52 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+15:56:52 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+15:56:52 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+15:56:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+15:56:52 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+15:56:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+15:56:52 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+15:56:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:23:27 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:23:27 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:23:27 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:23:27 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:23:27 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:23:27 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:23:27 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:23:27 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:23:27 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:23:27 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:24:52 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:24:52 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:24:52 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:24:52 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:24:52 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:24:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:24:52 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:24:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:24:52 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:24:52 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:25:01 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:25:01 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:25:01 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:25:01 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:25:01 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:25:01 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:25:01 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:25:01 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:25:01 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:25:01 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:27:16 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:27:16 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:27:16 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:27:16 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:27:16 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:27:16 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:27:16 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:27:16 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:27:16 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:27:16 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:31 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:28:31 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:28:31 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:28:31 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:28:31 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:28:31 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:31 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:28:31 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:31 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:28:31 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:55 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:28:55 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:28:55 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:28:55 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:28:55 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:28:55 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:55 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:28:55 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:28:55 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:28:55 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:36:53 - 19-06-2025 - DEBUG - AirthmeticApp - Adding 10 + 5 = 15
+16:36:53 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:36:53 - 19-06-2025 - ERROR - AirthmeticApp - Type error while adding: unsupported operand type(s) for +: 'int' and 'str'
+16:36:53 - 19-06-2025 - INFO - AirthmeticApp - add() function execution completed.
+16:36:53 - 19-06-2025 - DEBUG - AirthmeticApp - Dividing 20 / 4 = 5.0
+16:36:53 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:36:53 - 19-06-2025 - ERROR - AirthmeticApp - Division by zero error
+16:36:53 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:36:53 - 19-06-2025 - ERROR - AirthmeticApp - Type error: unsupported operand type(s) for /: 'str' and 'int'
+16:36:53 - 19-06-2025 - INFO - AirthmeticApp - divide() function execution completed.
+16:44:27 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): httpbin.org:443
+16:44:27 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): httpbin.org:443
+16:44:27 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): httpbin.org:443
+16:44:27 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): httpbin.org:443
+16:44:31 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://httpbin.org:443 "GET /delay/1 HTTP/11" 200 368
+16:44:31 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://httpbin.org:443 "GET /delay/2 HTTP/11" 200 368
+16:44:31 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://httpbin.org:443 "GET /delay/2 HTTP/11" 200 368
+16:44:32 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://httpbin.org:443 "GET /delay/3 HTTP/11" 200 368
+16:48:49 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.somesite.com:443
+16:48:49 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.example.com:443
+16:48:49 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.testpage.org:443
+16:48:49 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.example.com:443 "GET / HTTP/11" 200 648
+16:48:49 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.somesite.com:443 "GET /contact HTTP/11" 200 None
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.youtube.com:443
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.timeanddate.com:443
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.nic.gov.in:443
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.timeanddate.com:443 "GET /timer/ HTTP/11" 200 12208
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.youtube.com:443 "GET /bosscoderacademy HTTP/11" 200 None
+16:49:47 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.nic.gov.in:443 "GET / HTTP/11" 200 None
+16:50:04 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.youtube.com:443
+16:50:04 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.timeanddate.com:443
+16:50:04 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.nic.gov.in:443
+16:50:05 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.timeanddate.com:443 "GET /timer/ HTTP/11" 200 12208
+16:50:05 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.youtube.com:443 "GET /bosscoderacademy HTTP/11" 200 None
+16:50:05 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.nic.gov.in:443 "GET /contact-us/ HTTP/11" 200 32946
+16:50:41 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.iittp.ac.in:443
+16:50:41 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.timeanddate.com:443
+16:50:41 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.nic.gov.in:443
+16:50:42 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.nic.gov.in:443 "GET /contact-us/ HTTP/11" 200 32944
+16:50:42 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.iittp.ac.in:443 "GET / HTTP/11" 200 597
+16:50:42 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.timeanddate.com:443 "GET /timer/ HTTP/11" 200 12209
+16:51:37 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.iittp.ac.in:443
+16:51:37 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.iittp.ac.in:443
+16:51:37 - 19-06-2025 - DEBUG - urllib3.connectionpool - Starting new HTTPS connection (1): www.iittp.ac.in:443
+16:51:38 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.iittp.ac.in:443 "GET / HTTP/11" 200 597
+16:51:38 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.iittp.ac.in:443 "GET /faculty HTTP/11" 200 597
+16:51:38 - 19-06-2025 - DEBUG - urllib3.connectionpool - https://www.iittp.ac.in:443 "GET /contact-us HTTP/11" 200 597
